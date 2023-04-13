@@ -1,0 +1,4 @@
+package-lock.json
+err.log
+node_modules/
+bin/

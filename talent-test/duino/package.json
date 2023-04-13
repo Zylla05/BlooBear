@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@serialport/parser-readline": "^10.5.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.1",
+    "serialport": "^10.5.0",
+    "socket.io-client": "^4.6.1"
+  }
+}
